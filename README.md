@@ -1,6 +1,6 @@
 ### Hidden search
 
-![img](./cover-page.png) <br/>
+![img](./img/cover-page.png) <br/>
 [Test this app yourself](https://maykaltenev.github.io/blurred-page/)
 
 ---
