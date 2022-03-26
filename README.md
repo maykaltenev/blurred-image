@@ -1,4 +1,4 @@
-### Hidden search
+### Blurred Loading page
 
 ![img](./img/cover-page.png) <br/>
 [Test this app yourself](https://maykaltenev.github.io/blurred-page/)
