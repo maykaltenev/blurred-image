@@ -14,7 +14,8 @@ This project is part of the 50 projects in 50 Days - 50 HTML, CSS & JavaScript! 
 [udemy]: https://www.udemy.com/course/50-projects-50-days/
 
 <br>
-### How to use this Project
+
+#### How to use this Project
 
 This is a loading page starting blurred and with a counter on the loading with opacity.
 
